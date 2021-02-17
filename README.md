@@ -39,7 +39,7 @@
 
 ## 그 외 참고자료
 
-- 금융권 빅데이터 활용을 위한 R&D 전략, 2020 ([pdf](/financialbigdata.pdf))
+- 금융권 빅데이터 활용을 위한 R&D 전략, 2020 ([pdf](https://github.com/mchoimis/financialml/raw/main/financialbigdata.pdf))
 
 <p></p>
 
