@@ -40,7 +40,8 @@
 ## 그 외 참고자료
 
 - 금융권 빅데이터 활용을 위한 R&D 전략, 2020 ([pdf](https://github.com/mchoimis/financialml/raw/main/financialbigdata.pdf))
-
+- 피처 중요도 산출 방법론, SHAP 알고리즘의 비교 ([pdf](https://github.com/mchoimis/financialml/raw/main/featureimportance.pdf))
+ 
 <p></p>
 
 ## Announcement
